@@ -13,12 +13,12 @@ int main(){
         cout<<"B";
     }else if (m<80)
     {
-        /* code */
+       
         cout<<"C";
     }
     else
     {
-        /* code */
+       
         cout<<"Fail";
     }
     
