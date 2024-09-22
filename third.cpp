@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
  int main(){
-    cout<<" you?"
+    cout<<" you?";
     return 1;
  }
